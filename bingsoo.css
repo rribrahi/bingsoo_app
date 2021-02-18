@@ -11,3 +11,67 @@ h5{
 .info {
 	text-align: center;
 }
+
+.icon-heading {
+	display: inline-block;
+	text-align: center;
+}
+
+.flex-container {
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	margin: 20px;
+	gap: 25px;
+}
+
+.flex-container .fas {
+	font-size: 25px;
+}
+
+.flex-container .far {
+	font-size: 25px;
+}
+
+.participants {
+	background-color: #eeeeee;
+	padding: 10px;
+	padding-bottom: 20px;
+}
+
+.participants h3{
+	margin: 10px;
+}
+
+.participants .far {
+	margin: 20px;
+	font-size: 60px;
+}
+
+.participants .flex-container p {
+	font-size: 20px;
+	margin: auto;
+}
+
+.participants .decline  {
+	margin: 20px;
+	color: rgb(255, 0, 0);
+}
+
+.invite {
+	text-align: center;
+}
+
+.time {
+	margin-top: 30px;
+	background-color: #eeeeee;
+	padding: 10px;
+}
+
+.time h3 {
+	margin: 10px;
+}
+
+.info {
+	margin-top: 50px;
+}
