@@ -34,6 +34,7 @@ h5{
 }
 
 .participants {
+	border: 15px solid white;
 	background-color: #eeeeee;
 	padding: 10px;
 	padding-bottom: 20px;
@@ -63,9 +64,9 @@ h5{
 }
 
 .time {
-	margin-top: 30px;
+	border: 15px solid white;
 	background-color: #eeeeee;
-	padding: 10px;
+	padding: 5px;
 }
 
 .time h3 {
@@ -84,6 +85,8 @@ h5{
 }
 .top{
 	padding-bottom: : 100px;
+
+	margin-top: 5px;
 }
 
 
